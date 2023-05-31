@@ -7,13 +7,13 @@
 1. 克隆此仓库：
 
    ```
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/zn5575/FastAPI-demo.git
    ```
 
 2. 进入项目目录：
 
    ```
-   cd your-project
+   cd FastAPI-demo
    ```
 
 3. 创建并激活虚拟环境：
@@ -78,8 +78,6 @@ Authorization: Bearer <JWT>
 ```
 
 将返回一个 JSON 对象，其中包含有关当前用户的信息。
-
-
 
 ## 许可证
 
